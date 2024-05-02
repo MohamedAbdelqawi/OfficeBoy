@@ -1,0 +1,99 @@
+﻿@using DataLayer.Entities;
+
+@model IEnumerable<Order>
+
+<style>
+    
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+    }
+
+    th, td {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+
+ 
+    button {
+        padding: 8px 12px;
+        font-size: 14px;
+        background-color: #4caf50;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+        
+        button:hover {
+            background-color: #45a049;
+        }
+</style>
+
+<h1 style="text-align: center; color: #4caf50;">
+    Required Orders
+</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Employee Name</th>
+            <th>Employee Location</th>
+            <th>Quantity</th>
+            <th>Drink</th>
+            <th>Status</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr>
+                <td>
+                    @{
+                        
+                        string[] emailParts = order.Employee.Name.Split('@');
+                        string username = emailParts[0];
+                        
+                        @username
+                    }
+                </td>
+
+              
+                @{
+                    foreach (var item in ViewBag.officelocations)
+                    {
+                         if (item.Id == order.OfficeId)
+                         {
+
+                            <td>@item.Address</td>
+                         }
+                }
+               }
+                
+                <td>@order.Quantity</td>
+                <td>@order.Drink.Name</td>
+                <td>@order.Status</td>
+                <td>
+                    <form asp-action="UpdateOrderStatus"  asp-route-orderId="@order.Id" method="post">
+                        <select name="newStatus">
+                            <option value="Received">Received</option>
+                            <option value="OnWay">On Way</option>
+                            <option value="Denied">Denied</option>
+                            <option value="Delivered">Delivered</option>
+                            <option value="cancel">cancel</option>
+                        </select>
+                        <button type="submit">Update Status</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

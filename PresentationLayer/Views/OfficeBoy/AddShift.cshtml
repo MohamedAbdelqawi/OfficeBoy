@@ -1,0 +1,25 @@
+﻿@using DataLayer.ViewModels
+
+@model OfficeBoyShiftViewModel
+
+<h2>Add Shift for @ViewBag.currentuser.Name</h2>
+
+<form asp-action="AddShift" method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <input type="hidden" value="@ViewBag.currentuser.Name" asp-for="Employeename" />
+    <input type="hidden" value="@ViewBag.currentuser.Id" asp-for="EmployeeId" />
+
+    <div class="form-group">
+        <label asp-for="ShiftStartTime"></label>
+        <input asp-for="ShiftStartTime" class="form-control" />
+        <span asp-validation-for="ShiftStartTime" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ShiftEndTime"></label>
+        <input asp-for="ShiftEndTime" class="form-control" />
+        <span asp-validation-for="ShiftEndTime" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+    <a  asp-action="OfficeBoyShift" class="btn btn-secondary">Cancel</a>
+</form>

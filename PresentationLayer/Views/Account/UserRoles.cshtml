@@ -1,0 +1,33 @@
+﻿@using DataLayer.ViewModels
+
+@model List<UserRolesViewModel>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>UserName</th>
+            <th>Roles</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.UserName</td>
+                <td>
+                    <ul>
+                        @foreach (var role in user.Roles)
+                        {
+                            <li>@role</li>
+                        }
+                    </ul>
+                </td>
+                <td>
+                   
+                    <a  asp-action="ManageUserRoles" asp-route-userId="@user.UserId" class="btn btn-primary">Manage Roles</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,165 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - PresentationLayer</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/PresentationLayer.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-Gxx1Nki45+pXKO5i+Kx+g3jH8ijCoJnEPTDAwLn7CtXQ5+JW9GDwnzZbc5VwQp6r" crossorigin="anonymous">
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+
+    <link rel="stylesheet" href="~/css/navbar.css" />
+  
+
+</head>
+<body>
+    <button class="up-to-btn" id="upToBtn"><i class="fas fa-arrow-up"></i></button>
+    <header style="margin-bottom:20px" >
+      
+
+        <nav class="flex align-center ">
+            <p><span>Office</span>Boy</p>
+            <ul>
+                <li class="big-screens">
+                   
+                    <a class="HAV "  style="color:#25186f ;font-weight:bold;   text-decoration:none" asp-controller="Dashboard" asp-action="Index">Required orders</a>
+                        
+                    
+                    <a class="HAV " style=" color:#25186f ;font-weight:bold; text-decoration:none" asp-controller="Order" asp-action="PlaceOrder">Order</a>
+                    
+
+                    <a class="HAV " style=" color:#25186f ;font-weight:bold; text-decoration:none" asp-controller="Payment" asp-action="Search">Payment</a>
+                    <a class="HAV " style=" color:#25186f ;font-weight:bold; text-decoration:none" asp-controller="Drink" asp-action="Index">Admin</a>
+                     
+                    
+                   
+                    
+                    
+                </li>
+                <li class="small-screens">
+                    <i class="fa-solid fa-bars"></i>
+                </li>
+            </ul>
+            <ul>
+                @if (!User.Identity.IsAuthenticated)
+                {
+                    
+                <a class="btn register" asp-controller="Account" asp-action="Register">Register</a>
+                <a class="btn login" asp-controller="Account" asp-action="Login">Log In</a>
+                }
+                @if (User.Identity.IsAuthenticated)
+                {
+                    
+                <a class="btn login" asp-controller="Account" asp-action="Logout">Logout</a>
+                <a class="btn " asp-controller="Order" asp-action="Yourorders"><i class="fas fa-shopping-cart"></i></a>
+                }
+
+            </ul>
+        </nav>
+
+
+    </header>
+    <div class="container" style=" margin-bottom:10px">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer  py-3" style="background-color: #383649;">
+        <div class="container text-center" style="color: white">
+            &copy; 2024 - <span style="color:#00ed0a;font-size:25px">OfficeBoy</span> 
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+  
+    @await RenderSectionAsync("Scripts", required: false)
+    <script src="~/js/nav.js"></script>
+
+
+
+    <!-- Include Toastr library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+
+    <!-- Initialize Toastr -->
+    <script>
+        // Initialize Toastr with options
+        toastr.options = {
+            "closeButton": true,
+            "positionClass": "toast-top-right",
+            "showDuration": "300",
+            "hideDuration": "1000",
+            "timeOut": "5000",
+            "extendedTimeOut": "1000",
+            "showEasing": "swing",
+            "hideEasing": "linear",
+            "showMethod": "fadeIn",
+            "hideMethod": "fadeOut"
+        };
+
+        // Function to show Toastr notification
+        function showToastr(message, type) {
+            toastr[type](message);
+        }
+
+        // Check if order was placed successfully and trigger Toastr notification
+        $(document).ready(function () {
+        @if (TempData["OrderPlacedSuccessfully"] != null && (bool)TempData["OrderPlacedSuccessfully"])
+        {
+            <text>
+                    showToastr("Order successfully", "success");
+                // Clear TempData after showing the notification
+                @TempData.Remove("OrderPlacedSuccessfully");
+            </text>
+        }
+        @if (TempData["AddedSuccessfully"] != null && (bool)TempData["AddedSuccessfully"])
+        {
+            <text>
+                    showToastr("Added Successfully", "success");
+                // Clear TempData after showing the notification
+                @TempData.Remove("AddedSuccessfully");
+            </text>
+        }
+        @if (TempData["UpdateSuccessfully"] != null /* && (bool)TempData["UpdateSuccessfully"] */)
+        {
+            <text>
+                    showToastr("Update Successfully", "success");
+                @TempData.Remove("UpdateSuccessfully");
+            </text>
+        }
+        @if (TempData["DeletedSuccessfully"] != null && (bool)TempData["DeletedSuccessfully"])
+        {
+            <text>
+                    showToastr("Deleted Successfully", "success");
+                @TempData.Remove("DeletedSuccessfully");
+
+            </text>
+
+        }
+        @if (TempData["CancelSuccessfully"] != null && (bool)TempData["CancelSuccessfully"])
+        {
+            <text>
+                    showToastr("Cancel Successfully", "success");
+                @TempData.Remove("CancelSuccessfully");
+
+            </text>
+        }
+            });
+    </script>
+
+
+
+</body>
+</html>

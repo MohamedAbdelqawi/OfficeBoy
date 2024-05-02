@@ -1,0 +1,84 @@
+C:\Users\moham\source\repos\DataLayer\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+C:\Users\moham\source\repos\DataLayer\DataLayer\bin\Debug\net8.0\DataLayer.runtimeconfig.json
+C:\Users\moham\source\repos\DataLayer\DataLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\moham\source\repos\DataLayer\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\moham\source\repos\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\source\repos\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+C:\Users\moham\source\repos\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.dll
+C:\Users\moham\source\repos\DataLayer\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+C:\Users\moham\source\repos\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+C:\Users\moham\source\repos\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.genruntimeconfig.cache
+C:\Users\moham\source\repos\DataLayer\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\DataLayer\bin\Debug\net8.0\DataLayer.runtimeconfig.json
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\DataLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.genruntimeconfig.cache
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
+H:\projectofficeboy\DataLayer\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+H:\projectofficeboy\DataLayer\DataLayer\bin\Debug\net8.0\DataLayer.runtimeconfig.json
+H:\projectofficeboy\DataLayer\DataLayer\bin\Debug\net8.0\DataLayer.dll
+H:\projectofficeboy\DataLayer\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+H:\projectofficeboy\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+H:\projectofficeboy\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+H:\projectofficeboy\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+H:\projectofficeboy\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+H:\projectofficeboy\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+H:\projectofficeboy\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.dll
+H:\projectofficeboy\DataLayer\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+H:\projectofficeboy\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+H:\projectofficeboy\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.genruntimeconfig.cache
+H:\projectofficeboy\DataLayer\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
+D:\project\DataLayer\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+D:\project\DataLayer\DataLayer\bin\Debug\net8.0\DataLayer.runtimeconfig.json
+D:\project\DataLayer\DataLayer\bin\Debug\net8.0\DataLayer.dll
+D:\project\DataLayer\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+D:\project\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+D:\project\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+D:\project\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+D:\project\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\project\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.dll
+D:\project\DataLayer\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+D:\project\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+D:\project\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.genruntimeconfig.cache
+D:\project\DataLayer\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
+F:\New folder\project\DataLayer\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+F:\New folder\project\DataLayer\DataLayer\bin\Debug\net8.0\DataLayer.runtimeconfig.json
+F:\New folder\project\DataLayer\DataLayer\bin\Debug\net8.0\DataLayer.dll
+F:\New folder\project\DataLayer\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+F:\New folder\project\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+F:\New folder\project\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder\project\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+F:\New folder\project\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+F:\New folder\project\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+F:\New folder\project\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.dll
+F:\New folder\project\DataLayer\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+F:\New folder\project\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+F:\New folder\project\DataLayer\DataLayer\obj\Debug\net8.0\DataLayer.genruntimeconfig.cache
+F:\New folder\project\DataLayer\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
+F:\New folder\project\OfficeBoy\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+F:\New folder\project\OfficeBoy\DataLayer\bin\Debug\net8.0\DataLayer.runtimeconfig.json
+F:\New folder\project\OfficeBoy\DataLayer\bin\Debug\net8.0\DataLayer.dll
+F:\New folder\project\OfficeBoy\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+F:\New folder\project\OfficeBoy\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+F:\New folder\project\OfficeBoy\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder\project\OfficeBoy\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+F:\New folder\project\OfficeBoy\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+F:\New folder\project\OfficeBoy\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+F:\New folder\project\OfficeBoy\DataLayer\obj\Debug\net8.0\DataLayer.dll
+F:\New folder\project\OfficeBoy\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+F:\New folder\project\OfficeBoy\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+F:\New folder\project\OfficeBoy\DataLayer\obj\Debug\net8.0\DataLayer.genruntimeconfig.cache
+F:\New folder\project\OfficeBoy\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll

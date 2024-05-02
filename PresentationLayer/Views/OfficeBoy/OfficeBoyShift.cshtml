@@ -1,0 +1,36 @@
+﻿@using DataLayer.ViewModels
+
+ 
+
+ @model List<OfficeBoyShiftViewModel>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Shift Start Time</th>
+            <th>Shift End Time</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Employeename</td>
+                <td>@(item.ShiftStartTime != DateTime.MinValue ? item.ShiftStartTime.ToString(" hh:mm tt") : "No shift assigned")</td>
+                <td>@(item.ShiftEndTime != DateTime.MinValue ? item.ShiftEndTime.ToString(" hh:mm tt") : "No shift assigned")</td>
+                <td>
+                    @if (item.ShiftStartTime != DateTime.MinValue && item.ShiftEndTime != DateTime.MinValue)
+                    {
+                        <a  asp-action="EditShift" asp-route-employeeId="@item.EmployeeId">Edit</a>
+                    }
+                    else
+                    {
+                        <a  asp-action="AddShift" asp-route-employeeId="@item.EmployeeId">Add</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

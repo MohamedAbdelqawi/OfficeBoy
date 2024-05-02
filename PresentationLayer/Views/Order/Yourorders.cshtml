@@ -1,0 +1,110 @@
+﻿@using DataLayer.Entities;
+
+@model IEnumerable<Order>
+
+<style>
+ 
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+    }
+
+    th, td {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+
+   
+    button {
+        padding: 8px 12px;
+        font-size: 14px;
+        background-color: #4caf50;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+     
+        button:hover {
+            background-color: #45a049;
+        }
+
+
+    .disabled {
+        opacity: 0.5; 
+        pointer-events: none; 
+    }
+
+</style>
+
+<h1 style="text-align: center; color: #4caf50;">
+    YOU Orders
+</h1>
+
+
+<button type="submit"><a asp-controller="Order" asp-action="Yourorders" class="text-light">refresh Status</a></button>
+<table class="table">
+    <thead>
+        <tr>
+          
+            <th>Employee Location</th>
+            <th>Quantity</th>
+            <th>Drink</th>
+            <th>Status</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr>
+                @* <td>
+                    @{
+
+                        string[] emailParts = order.Employee.Name.Split('@');
+                        string username = emailParts[0];
+
+                        @username
+                    }
+                </td> *@
+
+
+                @{
+                    foreach (var item in ViewBag.officelocations)
+                    {
+                        if (item.Id == order.OfficeId)
+                        {
+
+                            <td>@item.Address</td>
+                        }
+                    }
+                }
+
+                <td>@order.Quantity</td>
+                <td>@order.Drink.Name</td>
+                <td>@order.Status</td>
+                <td>
+                    @if (order.Status == OrderStatus.Delivered || order.Status == OrderStatus.cancel)
+                    {
+                        <span class="cancel-btn" style="text-decoration:none; pointer-events: none; color: gray;">Cancel</span>
+                    }
+                    else
+                    {
+                        <a  asp-action="UpdateOrderStatus" asp-route-orderId="@order.Id" style="text-decoration:none">Cancel</a>
+                    }
+
+                    @* <a class="cancel-btn @(order.Status == OrderStatus.Delivered ? "disabled" : "")"  asp-action="UpdateOrderStatus" asp-route-orderId="@order.Id" style="text-decoration:none">Cancel</a> *@
+                  @*   <button class="cancel-btn @(order.Status == OrderStatus.Delivered ? "disabled" : "")" asp-action="UpdateOrderStatus" asp-route-orderId="@order.Id" type="submit">Cancel</button> *@
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

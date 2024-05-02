@@ -1,0 +1,90 @@
+C:\Users\moham\source\repos\DataLayer\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.deps.json
+C:\Users\moham\source\repos\DataLayer\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+C:\Users\moham\source\repos\DataLayer\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+C:\Users\moham\source\repos\DataLayer\BusinessLogicLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\moham\source\repos\DataLayer\BusinessLogicLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\moham\source\repos\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\source\repos\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\moham\source\repos\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\Business.450209FB.Up2Date
+C:\Users\moham\source\repos\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.dll
+C:\Users\moham\source\repos\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\refint\BusinessLogicLayer.dll
+C:\Users\moham\source\repos\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.pdb
+C:\Users\moham\source\repos\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.deps.json
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\BusinessLogicLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\BusinessLogicLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\Business.450209FB.Up2Date
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\refint\BusinessLogicLayer.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.pdb
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll
+H:\projectofficeboy\DataLayer\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.deps.json
+H:\projectofficeboy\DataLayer\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+H:\projectofficeboy\DataLayer\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+H:\projectofficeboy\DataLayer\BusinessLogicLayer\bin\Debug\net8.0\DataLayer.dll
+H:\projectofficeboy\DataLayer\BusinessLogicLayer\bin\Debug\net8.0\DataLayer.pdb
+H:\projectofficeboy\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+H:\projectofficeboy\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+H:\projectofficeboy\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+H:\projectofficeboy\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfo.cs
+H:\projectofficeboy\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+H:\projectofficeboy\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\Business.450209FB.Up2Date
+H:\projectofficeboy\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.dll
+H:\projectofficeboy\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\refint\BusinessLogicLayer.dll
+H:\projectofficeboy\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.pdb
+H:\projectofficeboy\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll
+D:\project\DataLayer\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.deps.json
+D:\project\DataLayer\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+D:\project\DataLayer\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+D:\project\DataLayer\BusinessLogicLayer\bin\Debug\net8.0\DataLayer.dll
+D:\project\DataLayer\BusinessLogicLayer\bin\Debug\net8.0\DataLayer.pdb
+D:\project\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\project\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\project\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfo.cs
+D:\project\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\project\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\Business.450209FB.Up2Date
+D:\project\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.dll
+D:\project\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\refint\BusinessLogicLayer.dll
+D:\project\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.pdb
+D:\project\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll
+F:\New folder\project\DataLayer\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.deps.json
+F:\New folder\project\DataLayer\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+F:\New folder\project\DataLayer\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+F:\New folder\project\DataLayer\BusinessLogicLayer\bin\Debug\net8.0\DataLayer.dll
+F:\New folder\project\DataLayer\BusinessLogicLayer\bin\Debug\net8.0\DataLayer.pdb
+F:\New folder\project\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+F:\New folder\project\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder\project\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+F:\New folder\project\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfo.cs
+F:\New folder\project\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+F:\New folder\project\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\Business.450209FB.Up2Date
+F:\New folder\project\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.dll
+F:\New folder\project\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\refint\BusinessLogicLayer.dll
+F:\New folder\project\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.pdb
+F:\New folder\project\DataLayer\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll
+F:\New folder\project\OfficeBoy\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.deps.json
+F:\New folder\project\OfficeBoy\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+F:\New folder\project\OfficeBoy\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+F:\New folder\project\OfficeBoy\BusinessLogicLayer\bin\Debug\net8.0\DataLayer.dll
+F:\New folder\project\OfficeBoy\BusinessLogicLayer\bin\Debug\net8.0\DataLayer.pdb
+F:\New folder\project\OfficeBoy\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+F:\New folder\project\OfficeBoy\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder\project\OfficeBoy\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+F:\New folder\project\OfficeBoy\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfo.cs
+F:\New folder\project\OfficeBoy\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+F:\New folder\project\OfficeBoy\BusinessLogicLayer\obj\Debug\net8.0\Business.450209FB.Up2Date
+F:\New folder\project\OfficeBoy\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.dll
+F:\New folder\project\OfficeBoy\BusinessLogicLayer\obj\Debug\net8.0\refint\BusinessLogicLayer.dll
+F:\New folder\project\OfficeBoy\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.pdb
+F:\New folder\project\OfficeBoy\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll

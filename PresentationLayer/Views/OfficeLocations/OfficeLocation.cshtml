@@ -1,0 +1,96 @@
+﻿@using DataLayer.ViewModels
+@model OfficeLocationViewModel
+
+<style>
+    form {
+        width: 60%;
+        margin: 0 auto;
+        font-family: Arial, sans-serif;
+    }
+
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+    label {
+        color: #113f67;
+        font-weight: bold;
+    }
+
+    input[type="text"] {
+        width: 100%;
+        padding: 10px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+    button {
+        padding: 10px 20px;
+        font-size: 18px;
+        background-color: #4caf50;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    th, td {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+</style>
+
+@{
+    var allLocations = ViewBag.AllLocations as List<DataLayer.Entities.OfficeLocation>;
+}
+
+@if (allLocations != null && allLocations.Any())
+  {
+    <h2>Office Locations</h2>
+    <a asp-action="AddOffice">Add</a>
+    <table>
+        <thead>
+            <tr>
+                <th>Location Name</th>
+                <th>Address</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+           
+            @foreach (var location in allLocations)
+            {
+                <tr>
+                    <td>@location.Name</td>
+                    <td>@location.Address</td>
+                    <td>
+                        <a href="@Url.Action("EditOfficeLocation", new { id = location.Id })">Edit</a> |
+                        <a href="@Url.Action("DeleteOfficeLocation", new { id = location.Id })">Delete</a> 
+                        
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+
+
+
+

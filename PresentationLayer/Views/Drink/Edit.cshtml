@@ -1,0 +1,66 @@
+﻿ @using DataLayer.ViewModels
+@model DrinkViewModel
+
+<form asp-action="AddEditDrink" method="post" enctype="multipart/form-data" class="mx-auto mt-4" style="max-width: 500px;margin-bottom:90px">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="form-group">
+        <label for="Name">Name:</label>
+        <input type="text" class="form-control" id="Name" asp-for="Name" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Description">Description:</label>
+        <textarea class="form-control" id="Description" asp-for="Description"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Price">Price:</label>
+        <input type="text" class="form-control" id="Price" asp-for="Price" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+    
+    <div class="form-group" style="margin-top:10px">
+        <label for="PictureFile">Picture:</label>
+        @if (Model != null && !string.IsNullOrWhiteSpace(Model.PictureUrl))
+        {
+            <div>
+                <img src="~/@Model.PictureUrl" alt="Old Picture" style="max-width: 200px; max-height: 200px;" />
+            </div>
+
+        }
+        <input type="file" class="form-control-file" id="PictureFile" value="@Model?.PictureUrl" asp-for="PictureFile" />
+        <span asp-validation-for="PictureFile" class="text-danger"></span>
+
+    </div>
+
+    
+
+
+    <div class="form-group" style="margin-top:10px">
+        <div class="form-check">
+            <input type="checkbox" class="form-check-input" id="Availability" asp-for="Availability" />
+            <label class="form-check-label" for="Availability">Availability</label>
+            <span asp-validation-for="Availability" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label for="TimeToPrepareMinutes">Time To Prepare (Minutes):</label>
+        <input type="number" class="form-control" id="TimeToPrepareMinutes" asp-for="TimeToPrepareMinutes" />
+        <span asp-validation-for="TimeToPrepareMinutes" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary " style="margin-top:8px">Save</button>
+</form> 
+
+
+
+
+
+          
+
+
+

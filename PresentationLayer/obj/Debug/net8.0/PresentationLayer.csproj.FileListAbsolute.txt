@@ -1,0 +1,1656 @@
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\appsettings.json
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\PresentationLayer.staticwebassets.runtime.json
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\PresentationLayer.exe
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\PresentationLayer.deps.json
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\PresentationLayer.runtimeconfig.json
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\PresentationLayer.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\PresentationLayer.pdb
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Humanizer.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.barcodes.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.forms.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.io.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.kernel.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.layout.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.pdfa.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.sign.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.styledxmlparser.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.svg.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.commons.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.AssemblyInfo.cs
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.RazorAssemblyInfo.cache
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.RazorAssemblyInfo.cs
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets\msbuild.PresentationLayer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets\msbuild.build.PresentationLayer.props
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PresentationLayer.props
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PresentationLayer.props
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\obj\Debug\net8.0\scopedcss\bundle\PresentationLayer.styles.css
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\obj\Debug\net8.0\scopedcss\projectbundle\PresentationLayer.bundle.scp.css
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\obj\Debug\net8.0\Presenta.9C561136.Up2Date
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\obj\Debug\net8.0\refint\PresentationLayer.dll
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.pdb
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.genruntimeconfig.cache
+C:\Users\moham\source\repos\DataLayer\PresentationLayer\obj\Debug\net8.0\ref\PresentationLayer.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\appsettings.json
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\PresentationLayer.staticwebassets.runtime.json
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\PresentationLayer.exe
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\PresentationLayer.deps.json
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\PresentationLayer.runtimeconfig.json
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\PresentationLayer.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\PresentationLayer.pdb
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Humanizer.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.barcodes.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.forms.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.io.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.kernel.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.layout.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.pdfa.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.sign.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.styledxmlparser.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.svg.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.commons.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.AssemblyInfo.cs
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.RazorAssemblyInfo.cache
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.RazorAssemblyInfo.cs
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets\msbuild.PresentationLayer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets\msbuild.build.PresentationLayer.props
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PresentationLayer.props
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PresentationLayer.props
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\obj\Debug\net8.0\scopedcss\bundle\PresentationLayer.styles.css
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\obj\Debug\net8.0\scopedcss\projectbundle\PresentationLayer.bundle.scp.css
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\obj\Debug\net8.0\Presenta.9C561136.Up2Date
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\obj\Debug\net8.0\refint\PresentationLayer.dll
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.pdb
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.genruntimeconfig.cache
+C:\Users\e9756\OneDrive\سطح المكتب\DataLayer\PresentationLayer\obj\Debug\net8.0\ref\PresentationLayer.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\appsettings.Development.json
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\appsettings.json
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\PresentationLayer.staticwebassets.runtime.json
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\PresentationLayer.exe
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\PresentationLayer.deps.json
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\PresentationLayer.runtimeconfig.json
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\PresentationLayer.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\PresentationLayer.pdb
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Azure.Core.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Azure.Identity.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Castle.Core.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Humanizer.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.barcodes.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.forms.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.io.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.kernel.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.layout.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.pdfa.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.sign.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.styledxmlparser.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.svg.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.commons.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Build.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Mono.TextTemplating.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\Newtonsoft.Json.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.Common.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.Configuration.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.Frameworks.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.LibraryModel.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.Packaging.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.ProjectModel.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.Protocol.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.Versioning.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\System.CodeDom.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Composition.Convention.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Composition.Hosting.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Composition.Runtime.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Composition.TypedParts.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Drawing.Common.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Memory.Data.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Runtime.Caching.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Security.Permissions.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Windows.Extensions.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\af\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\ar\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\az\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\bg\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\da\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\el\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\fa\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\he\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\hr\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\hu\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\hy\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\id\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\is\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\ku\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\lv\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\mt\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\nb\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\nl\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\pt\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\ro\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\sk\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\sl\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\sr\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\sv\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\uk\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\vi\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\DataLayer.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+H:\projectofficeboy\DataLayer\PresentationLayer\bin\Debug\net8.0\DataLayer.pdb
+H:\projectofficeboy\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.csproj.AssemblyReference.cache
+H:\projectofficeboy\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+H:\projectofficeboy\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.AssemblyInfoInputs.cache
+H:\projectofficeboy\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.AssemblyInfo.cs
+H:\projectofficeboy\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.csproj.CoreCompileInputs.cache
+H:\projectofficeboy\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.MvcApplicationPartsAssemblyInfo.cache
+H:\projectofficeboy\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.RazorAssemblyInfo.cache
+H:\projectofficeboy\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.RazorAssemblyInfo.cs
+H:\projectofficeboy\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets.build.json
+H:\projectofficeboy\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets.development.json
+H:\projectofficeboy\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets\msbuild.PresentationLayer.Microsoft.AspNetCore.StaticWebAssets.props
+H:\projectofficeboy\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets\msbuild.build.PresentationLayer.props
+H:\projectofficeboy\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PresentationLayer.props
+H:\projectofficeboy\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PresentationLayer.props
+H:\projectofficeboy\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets.pack.json
+H:\projectofficeboy\DataLayer\PresentationLayer\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+H:\projectofficeboy\DataLayer\PresentationLayer\obj\Debug\net8.0\scopedcss\bundle\PresentationLayer.styles.css
+H:\projectofficeboy\DataLayer\PresentationLayer\obj\Debug\net8.0\scopedcss\projectbundle\PresentationLayer.bundle.scp.css
+H:\projectofficeboy\DataLayer\PresentationLayer\obj\Debug\net8.0\Presenta.9C561136.Up2Date
+H:\projectofficeboy\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\obj\Debug\net8.0\refint\PresentationLayer.dll
+H:\projectofficeboy\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.pdb
+H:\projectofficeboy\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.genruntimeconfig.cache
+H:\projectofficeboy\DataLayer\PresentationLayer\obj\Debug\net8.0\ref\PresentationLayer.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\appsettings.Development.json
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\appsettings.json
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\PresentationLayer.staticwebassets.runtime.json
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\PresentationLayer.exe
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\PresentationLayer.deps.json
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\PresentationLayer.runtimeconfig.json
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\PresentationLayer.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\PresentationLayer.pdb
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Azure.Core.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Azure.Identity.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Castle.Core.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Humanizer.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.barcodes.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.forms.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.io.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.kernel.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.layout.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.pdfa.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.sign.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.styledxmlparser.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.svg.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.commons.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Build.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.Common.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\System.CodeDom.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Memory.Data.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\DataLayer.dll
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+D:\project\DataLayer\PresentationLayer\bin\Debug\net8.0\DataLayer.pdb
+D:\project\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.csproj.AssemblyReference.cache
+D:\project\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.AssemblyInfoInputs.cache
+D:\project\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.AssemblyInfo.cs
+D:\project\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\project\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.MvcApplicationPartsAssemblyInfo.cache
+D:\project\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.RazorAssemblyInfo.cache
+D:\project\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.RazorAssemblyInfo.cs
+D:\project\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets.build.json
+D:\project\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets.development.json
+D:\project\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets\msbuild.PresentationLayer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\project\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets\msbuild.build.PresentationLayer.props
+D:\project\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PresentationLayer.props
+D:\project\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PresentationLayer.props
+D:\project\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets.pack.json
+D:\project\DataLayer\PresentationLayer\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\project\DataLayer\PresentationLayer\obj\Debug\net8.0\scopedcss\bundle\PresentationLayer.styles.css
+D:\project\DataLayer\PresentationLayer\obj\Debug\net8.0\scopedcss\projectbundle\PresentationLayer.bundle.scp.css
+D:\project\DataLayer\PresentationLayer\obj\Debug\net8.0\Presenta.9C561136.Up2Date
+D:\project\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.dll
+D:\project\DataLayer\PresentationLayer\obj\Debug\net8.0\refint\PresentationLayer.dll
+D:\project\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.pdb
+D:\project\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.genruntimeconfig.cache
+D:\project\DataLayer\PresentationLayer\obj\Debug\net8.0\ref\PresentationLayer.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\appsettings.Development.json
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\appsettings.json
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\PresentationLayer.staticwebassets.runtime.json
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\PresentationLayer.exe
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\PresentationLayer.deps.json
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\PresentationLayer.runtimeconfig.json
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\PresentationLayer.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\PresentationLayer.pdb
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Azure.Core.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Azure.Identity.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Castle.Core.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Humanizer.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.barcodes.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.forms.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.io.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.kernel.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.layout.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.pdfa.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.sign.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.styledxmlparser.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.svg.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\itext.commons.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Build.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.Common.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.Configuration.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.Frameworks.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.LibraryModel.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.Packaging.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.ProjectModel.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.Protocol.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\NuGet.Versioning.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\System.CodeDom.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Memory.Data.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\af\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ar\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\az\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\bg\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\da\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\el\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\fa\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\he\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\hr\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\hu\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\hy\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\id\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\is\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ku\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\lv\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\mt\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\nb\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\nl\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\pt\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ro\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\sk\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\sl\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\sr\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\sv\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\uk\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\vi\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\DataLayer.dll
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+F:\New folder\project\DataLayer\PresentationLayer\bin\Debug\net8.0\DataLayer.pdb
+F:\New folder\project\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.csproj.AssemblyReference.cache
+F:\New folder\project\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder\project\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.AssemblyInfoInputs.cache
+F:\New folder\project\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.AssemblyInfo.cs
+F:\New folder\project\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.csproj.CoreCompileInputs.cache
+F:\New folder\project\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.MvcApplicationPartsAssemblyInfo.cache
+F:\New folder\project\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.RazorAssemblyInfo.cache
+F:\New folder\project\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.RazorAssemblyInfo.cs
+F:\New folder\project\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets.build.json
+F:\New folder\project\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets.development.json
+F:\New folder\project\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets\msbuild.PresentationLayer.Microsoft.AspNetCore.StaticWebAssets.props
+F:\New folder\project\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets\msbuild.build.PresentationLayer.props
+F:\New folder\project\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PresentationLayer.props
+F:\New folder\project\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PresentationLayer.props
+F:\New folder\project\DataLayer\PresentationLayer\obj\Debug\net8.0\staticwebassets.pack.json
+F:\New folder\project\DataLayer\PresentationLayer\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\New folder\project\DataLayer\PresentationLayer\obj\Debug\net8.0\scopedcss\bundle\PresentationLayer.styles.css
+F:\New folder\project\DataLayer\PresentationLayer\obj\Debug\net8.0\scopedcss\projectbundle\PresentationLayer.bundle.scp.css
+F:\New folder\project\DataLayer\PresentationLayer\obj\Debug\net8.0\Presenta.9C561136.Up2Date
+F:\New folder\project\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.dll
+F:\New folder\project\DataLayer\PresentationLayer\obj\Debug\net8.0\refint\PresentationLayer.dll
+F:\New folder\project\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.pdb
+F:\New folder\project\DataLayer\PresentationLayer\obj\Debug\net8.0\PresentationLayer.genruntimeconfig.cache
+F:\New folder\project\DataLayer\PresentationLayer\obj\Debug\net8.0\ref\PresentationLayer.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\appsettings.Development.json
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\appsettings.json
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\PresentationLayer.staticwebassets.runtime.json
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\PresentationLayer.exe
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\PresentationLayer.deps.json
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\PresentationLayer.runtimeconfig.json
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\PresentationLayer.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\PresentationLayer.pdb
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Azure.Core.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Azure.Identity.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Castle.Core.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Humanizer.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\itext.barcodes.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\itext.forms.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\itext.io.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\itext.kernel.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\itext.layout.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\itext.pdfa.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\itext.sign.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\itext.styledxmlparser.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\itext.svg.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\itext.commons.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.Build.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\NuGet.Common.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\NuGet.Configuration.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\NuGet.Frameworks.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\NuGet.LibraryModel.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\NuGet.Packaging.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\NuGet.ProjectModel.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\NuGet.Protocol.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\NuGet.Versioning.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\System.CodeDom.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\System.Memory.Data.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\af\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\ar\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\az\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\bg\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\cs\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\da\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\de\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\el\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\es\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\fa\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\fr\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\he\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\hr\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\hu\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\hy\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\id\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\is\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\it\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\ja\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\ku\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\lv\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\mt\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\nb\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\nl\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\pl\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\pt\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\ro\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\ru\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\sk\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\sl\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\sr\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\sv\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\tr\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\uk\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\vi\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\DataLayer.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+F:\New folder\project\OfficeBoy\PresentationLayer\bin\Debug\net8.0\DataLayer.pdb
+F:\New folder\project\OfficeBoy\PresentationLayer\obj\Debug\net8.0\PresentationLayer.csproj.AssemblyReference.cache
+F:\New folder\project\OfficeBoy\PresentationLayer\obj\Debug\net8.0\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder\project\OfficeBoy\PresentationLayer\obj\Debug\net8.0\PresentationLayer.AssemblyInfoInputs.cache
+F:\New folder\project\OfficeBoy\PresentationLayer\obj\Debug\net8.0\PresentationLayer.AssemblyInfo.cs
+F:\New folder\project\OfficeBoy\PresentationLayer\obj\Debug\net8.0\PresentationLayer.csproj.CoreCompileInputs.cache
+F:\New folder\project\OfficeBoy\PresentationLayer\obj\Debug\net8.0\PresentationLayer.MvcApplicationPartsAssemblyInfo.cache
+F:\New folder\project\OfficeBoy\PresentationLayer\obj\Debug\net8.0\PresentationLayer.RazorAssemblyInfo.cache
+F:\New folder\project\OfficeBoy\PresentationLayer\obj\Debug\net8.0\PresentationLayer.RazorAssemblyInfo.cs
+F:\New folder\project\OfficeBoy\PresentationLayer\obj\Debug\net8.0\staticwebassets.build.json
+F:\New folder\project\OfficeBoy\PresentationLayer\obj\Debug\net8.0\staticwebassets.development.json
+F:\New folder\project\OfficeBoy\PresentationLayer\obj\Debug\net8.0\staticwebassets\msbuild.PresentationLayer.Microsoft.AspNetCore.StaticWebAssets.props
+F:\New folder\project\OfficeBoy\PresentationLayer\obj\Debug\net8.0\staticwebassets\msbuild.build.PresentationLayer.props
+F:\New folder\project\OfficeBoy\PresentationLayer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PresentationLayer.props
+F:\New folder\project\OfficeBoy\PresentationLayer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PresentationLayer.props
+F:\New folder\project\OfficeBoy\PresentationLayer\obj\Debug\net8.0\staticwebassets.pack.json
+F:\New folder\project\OfficeBoy\PresentationLayer\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\New folder\project\OfficeBoy\PresentationLayer\obj\Debug\net8.0\scopedcss\bundle\PresentationLayer.styles.css
+F:\New folder\project\OfficeBoy\PresentationLayer\obj\Debug\net8.0\scopedcss\projectbundle\PresentationLayer.bundle.scp.css
+F:\New folder\project\OfficeBoy\PresentationLayer\obj\Debug\net8.0\Presenta.9C561136.Up2Date
+F:\New folder\project\OfficeBoy\PresentationLayer\obj\Debug\net8.0\PresentationLayer.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\obj\Debug\net8.0\refint\PresentationLayer.dll
+F:\New folder\project\OfficeBoy\PresentationLayer\obj\Debug\net8.0\PresentationLayer.pdb
+F:\New folder\project\OfficeBoy\PresentationLayer\obj\Debug\net8.0\PresentationLayer.genruntimeconfig.cache
+F:\New folder\project\OfficeBoy\PresentationLayer\obj\Debug\net8.0\ref\PresentationLayer.dll

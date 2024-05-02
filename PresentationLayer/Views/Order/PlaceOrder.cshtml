@@ -1,0 +1,105 @@
+﻿
+@using DataLayer.ViewModels
+@using System.Security.Claims
+@model OrderViewModel
+
+
+@{
+    ViewData["Title"] = "Place Order";
+    var modelState = ViewData.ModelState;
+}
+
+    <link href="~/css/slider-styles.css" rel="stylesheet" / >
+
+<style>
+    .card-img-top {
+        width: 100%;
+        height: auto; 
+        max-height: 150px;
+    }
+</style>
+
+
+<div id="slider">
+    <figure>
+        <img src="~/images/drink2.PNG" alt="Austin Fireworks">
+        <img src="~/images/drink3.PNG" alt="Austin Fireworks">
+        <img src="~/images/drink4.PNG" alt="Austin Fireworks">
+        <img src="~/images/drink2.PNG" alt="Austin Fireworks">
+        <img src="~/images/drink3.PNG" alt="Austin Fireworks">
+        
+    </figure>
+</div>
+<br />
+<br />
+<br />
+
+<p style="text-align:center;font-size:60px;font-weight:bolder"><span style="color: #4caf50;">Order</span>Drinks</p>
+
+
+
+@if (ViewBag.Drinks != null && ViewBag.OfficeLocations != null)
+{
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4">
+        @foreach (var drink in ViewBag.Drinks)
+        {
+            <div class="col mb-4">
+                <div class="card h-100" style="background-color: #f8f9fa; border-color: #dee2e6; min-height: 400px;">
+                    <img src="~/@drink.PictureUrl" class="card-img-top" alt="@drink.Name" style="height: 150px; width: 100%;">
+                    <div class="card-body">
+                        <h5 class="card-title" style="color: #4caf50;">@drink.Name - EGP @drink.Price</h5>
+                        <form id="orderForm" method="post">
+                            <input hidden asp-for="DrinkId" value="@drink.Id">
+                            <input hidden asp-for="Id" value="@Context.User.FindFirst(ClaimTypes.NameIdentifier)?.Value">
+                            <div class="form-group">
+                                <label for="quantity_@drink.Id" style="color: #343a40; font-weight: bold">Quantity:</label>
+                                <input type="number" class="form-control" id="quantity_@drink.Id" name="Quantity" value="1" min="1">
+                            </div>
+                            <div class="form-group">
+                                <label for="officeId_@drink.Id" style="color: #343a40; font-weight: bold">Select Office Location:</label>
+                                <select class="form-control" id="officeId_@drink.Id" name="OfficeId" style="color: #343a40;">
+                                    <option selected disabled>-- Select Office Location --</option>
+                                    @foreach (var location in ViewBag.OfficeLocations)
+                                    {
+                                        <option value="@location.Id">@location.Name - @location.Address</option>
+                                    }
+                                </select>
+                                @if (modelState.TryGetValue($"OfficeId_{drink.Id}", out var modelStateEntry))
+                                {
+                                    <div class="text-danger">@modelStateEntry.Errors.FirstOrDefault()?.ErrorMessage</div>
+                                }
+                            </div>
+                            
+
+                            <div class="form-group form-check">
+                                <input type="checkbox" class="form-check-input" id="isEmployeeOrder" name="IsEmployeeOrder" asp-for="IsEmployeeOrder">
+                                <label class="form-check-label" for="isEmployeeOrder" style="color: #343a40; font-weight: bold">Employee Order</label>
+                            </div>
+                            <input type="hidden" id="scrollPosition" name="ScrollPosition" />
+                            <button type="submit" class="btn btn-primary" >Place Order</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
+
+
+    </div>
+}
+<br />
+<br />
+<br />
+
+
+
+
+
+
+
+
+
+
+
+

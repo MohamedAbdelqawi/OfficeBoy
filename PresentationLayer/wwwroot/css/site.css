@@ -1,0 +1,60 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.HAV {
+    
+    text-decoration: none;
+    border-bottom: 1px solid transparent; 
+    transition: border-bottom 0.3s ease-in-out;
+}
+
+    .HAV:hover {
+        border-bottom: 1px solid #4caf50;
+    }
+
+/* ?? "Up To" */
+.up-to-btn {
+    display: none; 
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 999;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 9px 20px ;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 50%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+
+    .up-to-btn:hover {
+        background-color: #45a049;
+    }
+
+   
+    .up-to-btn i {
+        color: white;
+    }
+

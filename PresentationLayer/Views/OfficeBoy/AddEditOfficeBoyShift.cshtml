@@ -1,0 +1,72 @@
+﻿
+
+
+        @using DataLayer.ViewModels
+@model OfficeBoyShiftViewModel
+
+<style>
+  
+    form {
+        width: 60%;
+        margin: 0 auto; 
+        font-family: Arial, sans-serif; 
+    }
+
+    
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+    label {
+        color: #113f67; 
+        font-weight: bold; 
+    }
+
+    input[type="text"],
+    input[type="datetime-local"] {
+        width: 100%;
+        padding: 10px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+ 
+    button {
+        padding: 10px 20px;
+        font-size: 18px;
+        background-color: #4caf50;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+       
+        button:hover {
+            background-color: #45a049;
+        }
+</style>
+@* 
+<h1 style="text-align: center; color: #4caf50;">Add/Edit Office Boy Shift</h1>
+
+<form asp-action="AddEditOfficeBoyShift">
+    <input type="hidden" asp-for="Id" />
+    <div class="form-group">
+        <label asp-for="EmployeeId"></label>
+        <input asp-for="EmployeeId" class="form-control" />
+        <span asp-validation-for="EmployeeId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ShiftStartTime"></label>
+        <input type="time" name="ShiftStartTime" class="form-control" type="datetime-local" />
+        <span asp-validation-for="ShiftStartTime" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ShiftEndTime"></label>
+        <input type="time" name="ShiftEndTime" class="form-control" type="datetime-local" />
+        <span asp-validation-for="ShiftEndTime" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+</form> *@
+ 

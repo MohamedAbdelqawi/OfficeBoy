@@ -1,0 +1,103 @@
+﻿
+@{
+    ViewData["Title"] = "Search Results";
+}
+
+<style>
+    
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+    }
+
+    th, td {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+
+    
+    .alert {
+        padding: 15px;
+        margin-bottom: 20px;
+        border: 1px solid transparent;
+        border-radius: 4px;
+        color: #a94442;
+        background-color: #f2dede;
+        border-color: #ebccd1;
+    }
+
+   
+    h1,  h3 {
+        color: #4caf50;
+    }
+</style>
+
+<h4 style="text-align:center;color:red;font-weight:900">receipt</h4>
+ 
+@if (ViewBag.ErrorMessage != null)
+{
+    <div class="alert" role="alert">
+        @ViewBag.ErrorMessage
+    </div>
+}
+else
+{
+ string[] emailParts = @ViewBag.Employee.Name.Split('@');
+                        string username = emailParts[0];
+
+    <h3>Employee: @username</h3>
+  }
+    
+
+  
+    <table class="table">
+        <thead>
+            <tr>
+                <th>DateTime</th>
+                <th>Drink</th>
+                <th>Quantity</th>
+                <th>Price</th>
+                <th>Total Amount</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var order in ViewBag.Orders)
+            {
+                <tr>
+                    <td>@order.DateTimeOfOrder.Date</td>
+                    <td>@order.Drink.Name</td>
+                    <td>@order.Quantity</td>
+                <td>@order.Drink.Price EGP</td>
+                <td>@(order.Quantity * order.Drink.Price) EGP</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <h3>Total Price: @ViewBag.TotalAmount EGP</h3>
+
+@* <a href="@Url.Action("GenerateInvoicePDF", "Payment",
+    new {
+        orders = JsonConvert.SerializeObject(ViewBag.Orders),
+        employee = JsonConvert.SerializeObject(ViewBag.Employee),
+        totalAmount = ViewBag.TotalAmount
+    })">Download Invoice</a> *@
+
+
+
+@{
+    List<int> orderIds = new List<int>();
+    foreach (var order in ViewBag.Orders)
+    {
+        orderIds.Add(order.Id);
+    }
+}
+
+<a href="@Url.Action("GenerateInvoicePDF", "Payment", new { orderIds = orderIds, employeeId = ViewBag.Employee.Id, totalAmount = ViewBag.TotalAmount })">Download Invoice</a>
+

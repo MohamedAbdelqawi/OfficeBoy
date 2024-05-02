@@ -1,0 +1,189 @@
+﻿@* @using DataLayer.ViewModels
+@model IEnumerable<DrinkViewModel>
+
+<div class="container-fluid" style="margin-top:50px;min-height:100vh;display:block">
+    <div class="row" style="justify-content:space-between;min-height:80vh;">
+        <!-- Sidebar -->
+        <div class="col-md-4 " style="margin-top:20px;background-color:cadetblue">
+            <div class="list-group" style="margin-top:20px;">
+                <a asp-action="Add" class="list-group-item list-group-item-action" style="color:#113f67;font-weight:800;"><i class="fas fa-link"></i> Add New Drink</a>
+                <a asp-action="OfficeBoyShift" class="list-group-item list-group-item-action" style="color:#113f67;font-weight:900 "><i class="fas fa-link"></i>  Office Boy Shifts</a>
+                <a asp-action="OfficeLocation" class="list-group-item list-group-item-action" style="color:#113f67;font-weight:900 "><i class="fas fa-link"></i>  Office Locations</a>
+                <a asp-action="Index" asp-controller="Dashboard" class="list-group-item list-group-item-action" style="color:#113f67;font-weight:900 "><i class="fas fa-link"></i>  Order Status</a>
+                <a asp-action="AddRole" asp-controller="Account" class="list-group-item list-group-item-action" style="color:#113f67;font-weight:900 "><i class="fas fa-link"></i>  Roles</a>
+                <a asp-action="UserRoles" asp-controller="Account" class="list-group-item list-group-item-action" style="color:#113f67;font-weight:900 "><i class="fas fa-link"></i>  Update Users Role </a>
+               
+            </div>
+        </div>
+
+        <!-- Main Content -->
+        <div class="col-md-8" >
+            <p style="color:#4caf50;font-size:35px;font-weight:bold;text-align:center;">All <span>Drinks</span> </p>
+                
+                    <input type="text" class="form-control" id="searchInput" placeholder="Search by name or Price..." style="width:250px;margin-bottom:20px">
+               
+            <table class="table">
+                <thead>
+                
+                    <tr>
+                        <th>Name</th>
+                        <th>Description</th>
+                        <th>Price</th>
+                        <th>Availability</th>
+                        <th>Actions</th>
+                    </tr>
+
+                </thead>
+                <tbody class="table table-striped table-light">
+                    @foreach (var drink in Model)
+                    {
+                        <tr>
+                            <td>@drink.Name</td>
+                            <td>@drink.Description</td>
+                            <td>@drink.Price</td>
+                            <td>@(drink.Availability ? "Available" : "Not Available")</td>
+                            <td>
+                                <a asp-action="Edit" asp-route-id="@drink.Id"> Edit </a> |
+                                <a asp-action="Delete" asp-route-id="@drink.Id">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+        $('#searchInput').on('input', function () {
+            var searchText = $(this).val().toLowerCase();
+
+            $('tbody tr').each(function () {
+                var name = $(this).find('td:first').text().toLowerCase();
+                var price = $(this).find('td:nth-child(3)').text().toLowerCase();
+                
+                var nameMatch = name.includes(searchText);
+                var priceMatch = price.includes(searchText);
+               
+
+                $(this).toggle(nameMatch || priceMatch );
+            });
+        });
+    });
+</script>
+
+ *@
+
+
+
+
+
+            @using DataLayer.ViewModels
+@model IEnumerable<DrinkViewModel>
+
+<div class="container-fluid" style="margin-top:50px;min-height:100vh;display:block">
+    <div class="row" style="justify-content:space-between;min-height:80vh;">
+        <!-- Sidebar -->
+        <div class="col-md-4 " style="margin-top:20px;background-color:cadetblue">
+            <div class="list-group" style="margin-top:20px;">
+                <a asp-action="Add" class="list-group-item list-group-item-action" style="color:#113f67;font-weight:800;"><i class="fas fa-link"></i> Add New Drink</a>
+                <a asp-action="OfficeBoyShift" asp-controller="OfficeBoy" class="list-group-item list-group-item-action" style="color:#113f67;font-weight:900 "><i class="fas fa-link"></i>  Office Boy Shifts</a>
+                <a asp-action="OfficeLocation" asp-controller="OfficeLocations" class="list-group-item list-group-item-action" style="color:#113f67;font-weight:900 "><i class="fas fa-link"></i>  Office Locations</a>
+                <a asp-action="Index" asp-controller="Dashboard" class="list-group-item list-group-item-action" style="color:#113f67;font-weight:900 "><i class="fas fa-link"></i>  Order Status</a>
+                <a asp-action="AddRole" asp-controller="Account" class="list-group-item list-group-item-action" style="color:#113f67;font-weight:900 "><i class="fas fa-link"></i>  Roles</a>
+                <a asp-action="UserRoles" asp-controller="Account" class="list-group-item list-group-item-action" style="color:#113f67;font-weight:900 "><i class="fas fa-link"></i>  Update Users Role </a>
+            </div>
+        </div>
+
+        <!-- Main Content -->
+        <div class="col-md-8">
+            <p style="color:#4caf50;font-size:35px;font-weight:bold;text-align:center;">All <span>Drinks</span> </p>
+
+           @*  <input type="text" class="form-control" id="searchInput" placeholder="Search by name or Price..." style="width:250px;margin-bottom:20px"> *@
+
+
+
+            <form asp-action="Search" method="get">
+                <div class="input-group mb-3">
+                    <input type="text" class="form-control" name="searchTerm" placeholder="Search by name or Price...">
+                    <div class="input-group-append">
+                        <button class="btn btn-outline-secondary" type="submit">Search</button>
+                    </div>
+                </div>
+            </form>
+
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Description</th>
+                        <th>Price</th>
+                        <th>Availability</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody class="table table-striped table-light">
+                    @foreach (var drink in Model)
+                    {
+                        <tr>
+                            <td>@drink.Name</td>
+                            <td>@drink.Description</td>
+                            <td>@drink.Price</td>
+                            <td>@(drink.Availability ? "Available" : "Not Available")</td>
+                            <td>
+                                <a asp-action="Edit" asp-route-id="@drink.Id">Edit</a> |
+                                <a asp-action="Delete" asp-route-id="@drink.Id">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+            <!-- Pagination -->
+            <div class="pagination">
+                @if (ViewBag.PageNumber > 1)
+                {
+                    <a href="@Url.Action("Index", new { pageNumber = ViewBag.PageNumber - 1 })" class="active" style="color:#25186f;font-weight:bold">Previous</a>
+                }
+
+                @if (ViewBag.PageNumber < ViewBag.TotalPages)
+                {
+                    <a href="@Url.Action("Index", new { pageNumber = ViewBag.PageNumber + 1 })" class="active" style="color:#25186f;font-weight:bold">Next</a>
+                }
+            </div>
+            <!-- End Pagination -->
+            @if (ViewBag.IsMainPage != true && Model != null && !string.IsNullOrWhiteSpace(ViewBag.SearchTerm))
+            {
+                <div>
+                    <a href="@Url.Action("Index")" class="btn btn-primary">Back to All Drinks</a>
+                </div>
+            }
+
+
+
+        </div>
+    </div>
+</div>
+
+@* <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+        $('#searchInput').on('input', function () {
+            var searchText = $(this).val().toLowerCase();
+
+            $('tbody tr').each(function () {
+                var name = $(this).find('td:first').text().toLowerCase();
+                var price = $(this).find('td:nth-child(3)').text().toLowerCase();
+
+                var nameMatch = name.includes(searchText);
+                var priceMatch = price.includes(searchText);
+
+                $(this).toggle(nameMatch || priceMatch);
+            });
+        });
+    });
+</script> *@

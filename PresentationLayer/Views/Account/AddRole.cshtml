@@ -1,0 +1,47 @@
+﻿@using DataLayer.ViewModels
+
+@model AddRoleViewModel
+
+
+<style>
+    .list-inline {
+        display: flex;
+        flex-wrap: wrap; 
+        justify-content: flex-start; 
+        padding-left: 0; 
+        
+    }
+
+        .list-inline li {
+            margin-right: 10px;
+        }
+
+    a.custom-link {
+        color: red; 
+        text-decoration: none;
+    }
+
+</style>
+<div class="container d-flex justify-content-center">
+    <div class="col-lg-6">
+        <h2 style="display:inline">Roles :</h2>
+        <ul class="list-inline " style="margin-left:100px">
+            @{
+                
+                foreach (var role in ViewBag.roles)
+                {
+                    <li>@role.Name ||</li>
+                }
+                <a asp-action="Roles" class="custom-link">Delete Role</a>
+            }
+        </ul>
+        <form asp-action="AddRole" method="post">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="RoleName"></label>
+                <input asp-for="RoleName" class="form-control form-control-sm" />
+            </div>
+            <button type="submit" class="btn btn-primary">Add Role</button>
+        </form>
+    </div>
+</div>
